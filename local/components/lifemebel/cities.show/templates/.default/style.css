@@ -1,0 +1,22 @@
+.change_form{
+	display:none;
+	padding:10px;
+	border:solid 1px #ccc;
+	margin:10px;
+}
+
+.information{
+	border:solid 1px #009e1a;
+	padding:5px;
+	margin-top:10px;
+	color:#009e1a;
+	display:none;
+}
+
+.information.error{
+	border:solid 1px #d22e2e;
+	padding:5px;
+	margin-top:10px;
+	color:#d22e2e;
+	display:none;
+}
